@@ -4,12 +4,12 @@
 En esta evaluación individual, cada estudiante modificará su propio archivo de endpoint en la API de tareas. Cada archivo contiene 3 subendpoints simples que deben personalizar con información propia. Cada estudiante creará su propio archivo de solución para evitar conflictos al hacer commits. La evaluación consta de 4 retos sencillos, bien guiados y comentados.
 
 ## Requisitos Previos
-- Asegúrate de tener el entorno virtual activado en la carpeta `clase2-api-tareas`.
+- Asegúrate de tener el entorno virtual activado en la carpeta raíz del proyecto.
 - Instala las dependencias si no las tienes: `pip install fastapi uvicorn`.
 - Usa VS Code para editar y ejecutar el código. El archivo `launch.json` ya está configurado para ejecutar el proyecto fácilmente desde VS Code.
 
 ## Cómo Ejecutar el Proyecto
-1. Abre la carpeta `clase2-api-tareas` en VS Code.
+1. Abre la carpeta raíz del proyecto en VS Code.
 2. En el depurador de VS Code (Ctrl+Shift+D), selecciona "FastAPI Server" y presiona Play para iniciar el servidor.
 3. El servidor se ejecutará en `http://127.0.0.1:8000`. Puedes probarlo en el navegador.
 
